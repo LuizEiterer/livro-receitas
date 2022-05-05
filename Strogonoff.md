@@ -1,6 +1,6 @@
 #Projeto Livro de receita - Introdução ao Git e ao GitHub
 ##Iniciando o Git e criando um commit
-##Strognoff de Frango
+##Strogonoff de Frango
 ###INGREDIENTES
 3 peitos de frango cortados em cubos
 1 dente de alho picado
