@@ -15,12 +15,15 @@
 * batata palha a gosto
 
 ### **MODO DE PREPARO**
-Passos | Procedimento
-_______|_____________
-Passo 1| Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta.
+:Passos | Procedimento:
+:_______|_____________:
+:Passo 1| Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta.:
 Passo 2| Em uma frigideira grande, derreta a manteiga e doure a cebola.
 Passo 3| Junte o frango temperado até que esteja dourado.
 Passo 4| Adicione os cogumelos, o ketchup e a mostarda.
 Passo 5| Incorpore o creme de leite e retire do fogo antes de ferver.
 Passo 6| Sirva com arroz branco e batata palha.
 
+### **Informação adicional**
+>O strogonoff, apesar de ser uma receita muito famosa entre os brasileiros, nasceu na Russia e era um prato servido para nobreza russa.
+ No Brasil, se popularizou nos anos 1970 e era uma comida especial, servida em festas. Não demorou muito, o strogonoff chegou nos pratos de todos os brasileiros e hoje faz parte do nosso dia a dia.
