@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Bem-vindo ao GitHub Pages do projeto livro de receitas
 
 You can use the [editor on GitHub](https://github.com/LuizEiterer/livro-receitas/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
