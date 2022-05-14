@@ -1,4 +1,4 @@
-# Projeto Livro de receita - Introdução ao Git e ao GitHub
+# Projeto Livro de receitas - Introdução ao Git e ao GitHub
 ## Iniciando o Git e criando um commit
 ## Strogonoff de Frango
 ### **INGREDIENTES**
